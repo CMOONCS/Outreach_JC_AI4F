@@ -4,3 +4,5 @@ References:
 - https://github.com/openai/whisper
 - https://www.youtube.com/watch?v=4DGkgUffWxs
 - https://stackoverflow.com/questions/55701631/how-can-we-use-microphone-in-google-colab
+- https://pyimagesearch.com/2021/04/12/opencv-haar-cascades/
+- 
