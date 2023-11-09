@@ -1,4 +1,5 @@
 # Outreach_JC_AI4F
+Copyright © CUHK Jockey Club AI for the Future Project. All rights reserved
 Basics NLP, ASR and Image Processing Experiments
 References:
 - https://github.com/openai/whisper
